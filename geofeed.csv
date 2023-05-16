@@ -3,7 +3,7 @@
 # Publication date: 2023-05-16
 #
 # This data feed provides approximate geo locations for a subset of
-# Netflix Corp IP space, and the data included in this feed may be used only
+# Netflix IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups 
 
 23.246.2.0/23,US,US-TX,Dallas-Fort Worth,
