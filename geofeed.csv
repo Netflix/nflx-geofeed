@@ -1,6 +1,6 @@
 # Netflix Geofeed
 # This feed is encoded in RFC 8805 format.
-# Publication date: 2023-05-16
+# Publication date: 2023-05-24
 #
 # This data feed provides approximate geo locations for a subset of
 # Netflix IP space, and the data included in this feed may be used only
@@ -232,6 +232,7 @@
 192.173.108.0/24,GB,GB-ENG,London,
 192.173.108.0/27,GB,GB-WSM,London,
 192.173.109.0/24,GB,GB-HAM,Rushmoor,
+192.173.110.0/24,US,US-NY,New York,
 192.173.127.0/24,US,US-NM,Albuquerque,
 192.173.127.0/28,US,US-NM,Albuquerque,
 198.38.98.0/23,US,US-GA,Atlanta,
