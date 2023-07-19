@@ -1,0 +1,21 @@
+name: IETF Geofeed Validation Script
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: IETF Geofeed Validation Script
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install -r .github/scripts/requirements.txt
+      - run: python .github/scripts/validate-geofeed.py <geofeed.csv
+
