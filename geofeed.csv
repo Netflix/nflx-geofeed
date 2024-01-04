@@ -1,6 +1,6 @@
 # Netflix Geofeed
 # This feed is encoded in RFC 8805 format.
-# Publication date: 2023-12-28
+# Publication date: 2024-01-04
 #
 # This data feed provides approximate geo locations for a subset of
 # Netflix IP space, and the data included in this feed may be used only
@@ -22,7 +22,7 @@
 23.246.43.0/24,US,US-IL,Chicago,
 23.246.44.0/23,US,US-MN,Minneapolis,
 23.246.46.0/23,JP,JP-12,Tokyo,
-23.246.48.0/23,ES,ES-M,Madrid,
+23.246.48.0/23,ES,ES-MD,Madrid,
 23.246.50.0/23,IT,IT-25,Milan,
 23.246.54.0/23,SG,SG-02,Singapore,
 23.246.56.0/23,HK,,Hong Kong,
@@ -76,7 +76,7 @@
 45.57.102.0/23,US,US-FL,Miami,
 45.57.104.0/23,DE,DE-BY,Munich,
 45.57.106.0/23,DE,DE-HH,Hamburg,
-45.57.114.0/23,ES,ES-M,Madrid,
+45.57.114.0/23,ES,ES-MD,Madrid,
 45.57.116.0/23,KE,KE-30,Nairobi,
 45.57.118.0/23,FR,FR-IDF,Paris,
 45.57.120.0/23,US,US-IL,Chicago,
@@ -98,7 +98,7 @@
 66.197.206.0/24,US,US-CA,Los Angeles,
 66.197.207.0/24,SG,SG-02,Singapore,
 66.197.208.0/24,FR,FR-IDF,Paris,
-66.197.209.0/24,ES,ES-M,Madrid,
+66.197.209.0/24,ES,ES-MD,Madrid,
 66.197.210.0/24,JP,JP-12,Tokyo,
 66.197.211.0/24,IT,IT-25,Milan,
 66.197.212.0/24,HK,,Hong Kong,
@@ -388,7 +388,7 @@
 2a00:86c0:1043::/48,US,US-IL,Chicago,
 2a00:86c0:1044::/47,US,US-MN,Minneapolis,
 2a00:86c0:1046::/47,JP,JP-12,Tokyo,
-2a00:86c0:1048::/47,ES,ES-M,Madrid,
+2a00:86c0:1048::/47,ES,ES-MD,Madrid,
 2a00:86c0:1050::/47,IT,IT-25,Milan,
 2a00:86c0:1054::/47,SG,SG-02,Singapore,
 2a00:86c0:1056::/47,HK,,Hong Kong,
@@ -439,7 +439,7 @@
 2a00:86c0:2102::/47,US,US-FL,Miami,
 2a00:86c0:2104::/47,DE,DE-BY,Munich,
 2a00:86c0:2106::/47,DE,DE-HH,Hamburg,
-2a00:86c0:2114::/47,ES,ES-M,Madrid,
+2a00:86c0:2114::/47,ES,ES-MD,Madrid,
 2a00:86c0:2116::/47,KE,KE-30,Nairobi,
 2a00:86c0:2118::/47,FR,FR-IDF,Paris,
 2a00:86c0:2122::/47,JP,JP-12,Tokyo,
@@ -461,7 +461,7 @@
 2a00:86c0:800e::/48,US,US-CA,Los Angeles,
 2a00:86c0:800f::/48,SG,SG-02,Singapore,
 2a00:86c0:8010::/48,FR,FR-IDF,Paris,
-2a00:86c0:8011::/48,ES,ES-M,Madrid,
+2a00:86c0:8011::/48,ES,ES-MD,Madrid,
 2a00:86c0:8012::/48,JP,JP-12,Tokyo,
 2a00:86c0:8013::/48,IT,IT-25,Milan,
 2a00:86c0:8014::/48,HK,,Hong Kong,
