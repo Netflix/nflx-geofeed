@@ -1,6 +1,6 @@
 # Netflix Geofeed
 # This feed is encoded in RFC 8805 format.
-# Publication date: 2024-01-18
+# Publication date: 2024-01-23
 #
 # This data feed provides approximate geo locations for a subset of
 # Netflix IP space, and the data included in this feed may be used only
@@ -209,6 +209,7 @@
 192.173.90.0/24,US,US-CA,San Jose,
 192.173.91.0/24,US,US-VA,Ashburn,
 192.173.92.0/28,MX,MX-CMX,Mexico,
+192.173.93.0/24,US,US-WA,East Wenatchee,
 192.173.94.0/24,US,US-NY,New York,
 192.173.94.0/28,US,US-NY,New York,
 192.173.94.32/28,US,US-NY,New York,
@@ -230,6 +231,7 @@
 192.173.102.0/24,JP,JP-13,Koto,
 192.173.105.0/24,IT,IT-RM,Rome,
 192.173.105.0/28,IT,IT-RM,Rome,
+192.173.106.0/24,US,US-WA,East Wenatchee,
 192.173.108.0/24,GB,GB-ENG,London,
 192.173.108.0/27,GB,GB-WSM,London,
 192.173.109.0/24,GB,GB-HAM,Rushmoor,
@@ -266,6 +268,8 @@
 2607:fb10:2040::/44,IN,IN-MH,Mumbai,
 2607:fb10:2050::/44,IN,IN-MH,Mumbai,
 2607:fb10:2070::/44,JP,JP-13,Minato,
+2607:fb10:7330::/44,US,US-WA,East Wenatchee,
+2607:fb10:7365::/48,US,US-WA,East Wenatchee,
 2607:fb10:5012::/48,NL,NL-NH,Amsterdam,
 2607:fb10:5013::/48,NL,NL-NH,Amsterdam,
 2607:fb10:5014::/48,NL,NL-NH,Amsterdam,
