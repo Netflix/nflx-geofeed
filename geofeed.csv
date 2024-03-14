@@ -512,3 +512,6 @@
 2a00:86c0:8036::/48,DE,DE-HH,Hamburg,
 2a00:86c0:8037::/48,IN,IN-MH,Mumbai,
 2a00:86c0:ff0a::/48,US,US-CA,San Jose,
+192.173.76.48/29,CA,CA-BC,Vancouver,
+192.173.76.64/28,CA,CA-BC,Vancouver,
+
