@@ -3,7 +3,7 @@
 #
 # This data feed provides approximate geo locations for a subset of
 # Netflix IP space, and the data included in this feed may be used only
-# for improving the accuracy of Geo:IP lookups 
+# for improving the accuracy of Geo:IP lookups.
 
 23.246.2.0/23,US,US-TX,Dallas-Fort Worth,
 23.246.6.0/23,US,US-NY,New York,
@@ -134,6 +134,7 @@
 66.197.245.0/24,DE,DE-BB,Berlin,
 66.197.246.0/24,DE,DE-HH,Hamburg,
 66.197.247.0/24,IN,IN-MH,Mumbai,
+66.197.248.0/24,US,US-CA,San Jose,
 69.53.225.0/24,US,US-NY,New York,
 69.53.229.0/24,US,US-UT,Salt Lake City,
 69.53.230.0/24,US,US-CA,Los Gatos,
@@ -533,4 +534,5 @@
 2a00:86c0:8035::/48,DE,DE-BB,Berlin,
 2a00:86c0:8036::/48,DE,DE-HH,Hamburg,
 2a00:86c0:8037::/48,IN,IN-MH,Mumbai,
+2a00:86c0:8038::/48,US,US-CA,San Jose,
 2a00:86c0:ff0a::/48,US,US-CA,San Jose,
