@@ -6,6 +6,7 @@
 # for improving the accuracy of Geo:IP lookups.
 
 23.246.2.0/23,US,US-TX,Dallas-Fort Worth,
+23.246.4.0/23,US,US-CA,Sacramento,
 23.246.6.0/23,US,US-NY,New York,
 23.246.10.0/23,US,US-CO,Denver,
 23.246.12.0/23,US,US-TX,Houston,
@@ -17,6 +18,7 @@
 23.246.30.0/23,US,US-NJ,Newark,
 23.246.36.0/23,US,US-IL,Chicago,
 23.246.38.0/23,US,US-AZ,Phoenix,
+23.246.40.0/24,US,US-IL,Chicago,
 23.246.41.0/24,US,US-MO,St Louis,
 23.246.42.0/24,US,US-MO,Kansas City,
 23.246.43.0/24,US,US-IL,Chicago,
@@ -396,6 +398,7 @@
 2a00:86c0:21::/48,BR,BR-RS,Porto Alegre,
 2a00:86c0:98::/47,US,US-GA,Atlanta,
 2a00:86c0:100::/47,US,US-CA,San Jose,
+2a00:86c0:106::/47,US,US-CA,Sacramento,
 2a00:86c0:108::/47,US,US-IL,Chicago,
 2a00:86c0:110::/47,US,US-PA,Philadelphia,
 2a00:86c0:112::/47,US,US-WA,Seattle,
