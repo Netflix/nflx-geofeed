@@ -394,6 +394,8 @@
 2607:fb10:9015::/48,MX,MX-CMX,Mexico,
 2607:fb10:9016::/48,MX,MX-CMX,Mexico,
 2607:fb10:7380::/44,US,US-CA,San Jose,
+2607:fb10:7391::/48,US,US-CA,Los Angeles,
+2607:fb10:7392::/48,US,US-CA,Los Angeles,
 2607:fb10:f100::/48,US,US-CA,San Jose,
 2a00:86c0:4::/47,GB,GB-ENG,London,
 2a00:86c0:21::/48,BR,BR-RS,Porto Alegre,
