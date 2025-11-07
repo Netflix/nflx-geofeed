@@ -208,7 +208,7 @@
 192.173.87.0/24,US,US-CA,Los Angeles,
 192.173.88.0/24,DE,DE-BE,Berlin,
 192.173.88.0/27,DE,DE-BE,Berlin,
-192.173.89.0/24,SG,,Singapore,
+192.173.89.0/24,SG,SG-02,Singapore,
 192.173.89.0/27,SG,SG-05,Singapore,
 192.173.89.32/27,SG,SG-01,Singapore,
 192.173.90.0/24,US,US-CA,San Jose,
