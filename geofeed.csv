@@ -2,7 +2,7 @@
 # This feed is encoded in RFC 8805 format.
 #
 # This data feed provides approximate geo locations for a subset of
-# Netflix IP space, and the data included in this feed may be used only
+# Netflix IP space and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups.
 
 23.246.2.0/23,US,US-TX,Dallas-Fort Worth,
@@ -225,7 +225,7 @@
 192.173.95.0/27,JP,JP-13,Chiyoda,
 192.173.95.32/27,JP,JP-13,Minato,
 192.173.95.64/27,JP,JP-13,Minato,
-192.173.96.0/24,US,US-OR,Portland,
+192.173.96.0/24,BR,BR-SP,Sao Paulo,
 192.173.98.0/24,IN,IN-MH,Mumbai,
 192.173.99.0/24,IN,IN-MH,Mumbai,
 192.173.99.0/27,IN,IN-MH,Mumbai,
@@ -405,6 +405,7 @@
 2607:fb10:73a1::/48,PL,PL-14,Warsaw,
 2607:fb10:73a2::/48,PL,PL-14,Warsaw,
 2607:fb10:7400::/44,US,US-WA,Seattle,
+2607:fb10:9020::/44,BR,BR-SP,Sao Paulo,
 2607:fb10:f100::/48,US,US-CA,San Jose,
 2a00:86c0:4::/47,GB,GB-ENG,London,
 2a00:86c0:21::/48,BR,BR-RS,Porto Alegre,
